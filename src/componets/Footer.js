@@ -1,13 +1,13 @@
 import React from "react";
-
+import "./Footer.css"
 
 
 const Footer = ()=>{
     return(
         <>
-        <div>
-            <h1>Footer say : "hello world"</h1>
-        </div>
+      <div className="footer">
+        <h1>made by : Muhammad saqlain</h1>
+      </div>
         </>
     )
 }

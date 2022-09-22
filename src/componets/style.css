@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.head{
+    width: 100%;
+background-color: black;
+color: white;
+height: 10vh;
+}
+.head ul {
+ display: flex;
+ justify-content: center;
+}
+.head ul li{
+    width: 10%;
+    list-style-type: none;
+    padding: 2px;
+    margin: 18px 100px;
+}

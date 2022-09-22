@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.footer{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline ;
+    margin-top: 12px;
+    color: red;
+}

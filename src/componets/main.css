@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    /* margin-top: -32px; */
+    width: 100%;
+    height: 80vh;
+    background-image: url('./IMG-20211109-WA0003.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main h1 {
+    text-align: center;
+}

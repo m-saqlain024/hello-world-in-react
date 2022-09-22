@@ -1,10 +1,16 @@
 import React from "react";
+import './style.css'
 
 const  Head=()=>{
     return(
         <>
-        <div>
-            <h1>header say : "hello world"</h1>
+        <div className="head">
+            <ul>
+                <li>Home</li>
+                <li>Services</li>
+                <li>About us</li>
+                <li>Contact us</li>
+            </ul>
         </div>
         </>
 
